@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 22:42 (UTC+8)",
+ "updated": "2026-11-24 07:20 (UTC+8)",
  "items": [
   {
    "cat": "VPS",
@@ -1201,6 +1201,54 @@
    "ends": "2026-12-09",
    "url": "https://nordpass.com/black-friday",
    "note": "Nord系密码管理器，个人年付最高5折，企业用码再省20%"
+  },
+  {
+   "cat": "香水美妆",
+   "name": "LOEWE 001 Man 事后清晨 浓香 EDP 50ml（京东自营）",
+   "spec": "男士浓香水 EDP 50ml，木质麝香调",
+   "price": "¥910（PLUS ¥908）",
+   "orig": "¥1,045",
+   "code": "",
+   "region": "中国 · 京东自营",
+   "ends": "",
+   "url": "https://wiki.smzdm.com/p/mz93mx3/",
+   "note": "正品渠道目前最低，比官网/天猫旗舰便宜¥135；下单前核对是EDP不是EDT"
+  },
+  {
+   "cat": "香水美妆",
+   "name": "LOEWE 001 Man 事后清晨 浓香 EDP 75ml（得物）",
+   "spec": "男士浓香水 EDP 75ml；官网与天猫旗舰无75ml",
+   "price": "¥667",
+   "orig": "",
+   "code": "",
+   "region": "中国 · 得物（平台鉴别）",
+   "ends": "",
+   "url": "https://m.shihuo.cn/page/goodsDetail/617231?goodsId=617231&styleId=4925632",
+   "note": "75ml只有第三方有货，非品牌授权渠道；同店100ml约¥670更划算"
+  },
+  {
+   "cat": "香水美妆",
+   "name": "LOEWE Esencia 黑色圆舞曲 浓香 EDP 50ml / 75ml（京东自营）",
+   "spec": "Esencia pour Homme EDP，50ml 与 75ml 京东自营均有",
+   "price": "50ml ¥1,120",
+   "orig": "¥1,180",
+   "code": "",
+   "region": "中国 · 京东自营",
+   "ends": "",
+   "url": "https://www.jd.com/jiage/1316a2f25aeee2c05206.html",
+   "note": "官网与天猫旗舰50ml ¥1,180；75ml京东自营有货（SKU 100115981628），黑五盯降价"
+  },
+  {
+   "cat": "香水美妆",
+   "name": "LOEWE 001 Man / Esencia 浓香 EDP 100ml（美国 FragranceNet）",
+   "spec": "美国无75ml，比100ml；001 Man 100ml、Esencia 100ml",
+   "price": "001 $149.49，Esencia $139.74",
+   "orig": "$229.99 / $214.99",
+   "code": "",
+   "region": "美国 · FragranceNet（折扣店）",
+   "ends": "",
+   "url": "https://www.fragrancenet.com/cologne/loewe/loewe-001-man/eau-de-parfum",
+   "note": "需在站内点 Activate Coupon；非品牌授权，官网 loewe.com 售价 $210 / $255"
   }
  ]
 }
