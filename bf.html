@@ -54,7 +54,7 @@ main{max-width:1180px;margin:0 auto;padding:18px 16px 64px}
 .p s{color:var(--mut);font-size:13px}
 .note{font-size:14px}
 .meta{font-size:12px;color:var(--mut);display:flex;flex-direction:column;gap:2px}
-.code{display:flex;gap:6px;align-items:center}
+.codes{display:flex;flex-wrap:wrap;gap:8px 14px}.code{display:flex;gap:6px;align-items:center}.cl{font-size:12px;color:var(--mut)}
 .code code{background:var(--acc-soft);border:1px dashed var(--acc);border-radius:4px;padding:1px 8px;color:var(--accd);font-size:13px;font-weight:600}
 .code button{background:none;border:1px solid var(--line);color:var(--mut);border-radius:4px;font-size:12px;cursor:pointer;padding:2px 8px}
 .go{margin-top:auto;display:block;text-align:center;background:var(--acc-soft);color:var(--accd);border-radius:10px;padding:9px;text-decoration:none;font-weight:700;transition:all .2s var(--e)}
@@ -93,7 +93,7 @@ tg.onclick=()=>{const nt=isDark()?"light":"dark";document.documentElement.datase
 matchMedia("(prefers-color-scheme: dark)").addEventListener("change",tgIcon);tgIcon();
 const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let all=[],cat="全部";
-fetch("/deals.json").then(r=>r.json()).then(j=>{all=j.items;document.getElementById("ft").innerHTML=`更新于 ${esc(j.updated)} · 共 ${all.length} 条 · 优惠信息整理自各商家官网与公告，价格、库存随时变化，下单前请以官网为准。本页不含推广返利链接。<br>生活404 · 运行在德国 Nodaroo`;tabs();draw()});
+fetch("/deals.json").then(r=>r.json()).then(j=>{all=j.items;document.getElementById("ft").innerHTML=`更新于 ${esc(j.updated)} · 共 ${all.length} 条 · 优惠信息整理自各商家官网与公告，价格、库存随时变化，下单前请以官网为准。部分商家链接含站长推荐码（RackNerd、搬瓦工、Saily），不影响价格。<br>生活404 · 运行在德国 Nodaroo`;tabs();draw()});
 function tabs(){const cats=["全部",...new Set(all.map(x=>x.cat))];document.getElementById("tabs").innerHTML=cats.map(c=>`<button class="${c==cat?"on":""}" data-c="${esc(c)}">${esc(c)}<i>${c=="全部"?all.length:all.filter(x=>x.cat==c).length}</i></button>`).join("");
 document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{cat=b.dataset.c;tabs();draw()})}
 function draw(){const q=document.getElementById("q").value.trim().toLowerCase();
@@ -103,7 +103,7 @@ document.getElementById("grid").innerHTML=L.length?L.map(x=>`<div class="c">
 ${x.spec?`<div class="spec">${esc(x.spec)}</div>`:""}
 <div class="p"><b>${esc(x.price)}</b>${x.orig?`<s>${esc(x.orig)}</s>`:""}</div>
 ${x.note?`<div class="note">${esc(x.note)}</div>`:""}
-${x.code?`<div class="code"><code>${esc(x.code)}</code><button onclick="navigator.clipboard.writeText('${esc(x.code)}');this.textContent='已复制'">复制</button></div>`:""}
+${x.code||x.ref?`<div class="codes">${[[x.code,x.ref?"黑五码":""],[x.ref,"邀请码"]].filter(c=>c[0]).map(c=>`<div class="code">${c[1]?`<span class="cl">${c[1]}</span>`:""}<code>${esc(c[0])}</code><button onclick="navigator.clipboard.writeText('${esc(c[0])}');this.textContent='已复制'">复制</button></div>`).join("")}</div>`:""}
 <div class="meta">${x.region?`<span>📍 ${esc(x.region)}</span>`:""}${x.ends?`<span>⏳ ${esc(x.ends)}</span>`:""}</div>
 <a class="go" href="${esc(x.url)}" target="_blank" rel="noopener nofollow">去看看 →</a></div>`).join(""):`<div class="empty">没找到，换个词试试</div>`}
 document.getElementById("q").oninput=draw;
