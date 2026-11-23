@@ -279,6 +279,18 @@
   },
   {
    "cat": "eSIM",
+   "name": "Saily 全场 8 折＋美国号码年付 US$11.88（走邀请再减 $5）",
+   "spec": "所有国家/地区和所有套餐含 Ultra；另可加购美国 +1 号码（收发短信、通话，年付折合 US$0.99/月）",
+   "price": "US$12.79（西班牙 10GB/30天，第三方结账实测）",
+   "orig": "US$15.99",
+   "code": "Sailybf26",
+   "region": "全球 200+ 目的地",
+   "ends": "2026-11-29（黑五周 11/23–11/29）",
+   "url": "https://saily.onelink.me/5Txv/WORKER5688",
+   "note": "NordVPN 母公司出品。经本页邀请链接注册，首单减 $5（Ultra 减 $10），美国号码年付 US$11.88 减完约 US$6.88 首年；号码需在 App 内实名认证，部分 App 可能识别为 VoIP。黑五码与邀请优惠能否叠加以结账页为准。"
+  },
+  {
+   "cat": "eSIM",
    "name": "Airalo 无限流量套餐 75折",
    "spec": "Airalo 官方标注为活动适用的套餐（主要是 Unlimited 无限流量），150 个目的地",
    "price": "原价 75 折",
@@ -288,18 +300,6 @@
    "ends": "2026-11-30 23:59 UTC",
    "url": "https://www.airalo.com/campaign-terms/Black-Friday-2026",
    "note": "新老用户都能用；条款写只限活动页标注的套餐，下单前在结算页确认折扣生效"
-  },
-  {
-   "cat": "eSIM",
-   "name": "Saily 全场 8 折（含 Ultra）",
-   "spec": "所有国家/地区和所有套餐，含 Ultra 订阅；例：西班牙 10GB/30天",
-   "price": "US$12.79（西班牙 10GB/30天，第三方结账实测）",
-   "orig": "US$15.99",
-   "code": "Sailybf26",
-   "region": "全球 200+ 目的地",
-   "ends": "2026-11-29（黑五周 11/23–11/29）",
-   "url": "https://saily.onelink.me/5Txv/WORKER5688",
-   "note": "NordVPN 母公司出品，全场无门槛 8 折，购买后 180 天内激活；首单也可用推荐码 WORKER5688 减 $5（Ultra 套餐减 $10），能否与黑五码叠加以结账页为准。"
   },
   {
    "cat": "eSIM",
