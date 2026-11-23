@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 21:15 (UTC+8)",
+ "updated": "2026-11-23 22:20 (UTC+8)",
  "items": [
   {
    "cat": "VPS",
@@ -36,6 +36,30 @@
    "ends": "",
    "url": "https://www.racknerd.com/BlackFriday/",
    "note": "官方标“Most popular”，4核4G年付不到50刀"
+  },
+  {
+   "cat": "VPS",
+   "name": "RackNerd 6 GB KVM VPS（黑五）",
+   "spec": "6C/6G/85G SSD/15T",
+   "price": "$74.98/年",
+   "orig": "",
+   "code": "",
+   "region": "美国多机房可选（以下单页为准），普通线路",
+   "ends": "",
+   "url": "https://www.racknerd.com/BlackFriday/",
+   "note": "6核6G年付75刀，终身同价续费"
+  },
+  {
+   "cat": "VPS",
+   "name": "RackNerd 8 GB KVM VPS（黑五）",
+   "spec": "6C/8G/140G SSD/20T",
+   "price": "$94.98/年",
+   "orig": "",
+   "code": "",
+   "region": "美国多机房可选（以下单页为准），普通线路",
+   "ends": "",
+   "url": "https://www.racknerd.com/BlackFriday/",
+   "note": "8G内存140G硬盘，跑多容器/小型数据库够用，续费同价"
   },
   {
    "cat": "VPS",
@@ -195,6 +219,18 @@
   },
   {
    "cat": "VPS",
+   "name": "ServerHost 8GB Ryzen/i9 VPS（黑五预热）",
+   "spec": "8G RAM（CPU/硬盘/流量原文未列）",
+   "price": "$79.00/年",
+   "orig": "",
+   "code": "OCTRYZI98GB",
+   "region": "美国（以下单页为准）",
+   "ends": "",
+   "url": "https://lowendbox.com/blog/the-pre-black-friday-lab-upgrade-win-100-see-the-8gb-ryzen-i9-offer/",
+   "note": "8G大内存年付79刀，同系列高主频Ryzen/i9；$100余额抽奖至11/25"
+  },
+  {
+   "cat": "VPS",
    "name": "DediRock High-RAM VPS Core",
    "spec": "1C/8G/20G HDD/2T",
    "price": "$24.99/年",
@@ -216,6 +252,30 @@
    "ends": "2026-11-30",
    "url": "https://contabo.com/blog/black-friday-2026/",
    "note": "仅11/23–11/30可下单，锁定当前价应对涨价潮"
+  },
+  {
+   "cat": "VPS",
+   "name": "CSTserver 洛杉矶 CN2 GIA/9929/CMIN2 CVM X2",
+   "spec": "2C/2G/50G SSD/1T",
+   "price": "$3.19/月（年付约$31.92）",
+   "orig": "$7.98/月",
+   "code": "CSTOU4",
+   "region": "美国洛杉矶，三网优化（电信CN2 GIA/联通9929/移动CMIN2）",
+   "ends": "",
+   "url": "https://cstserver.com/",
+   "note": "三网精品线路折后月付3刀出头；网友反馈口子约30Mbps、IP被墙不可换，适合轻量自用"
+  },
+  {
+   "cat": "VPS",
+   "name": "Servury BlackBox Nano（黑五新品）",
+   "spec": "1C EPYC/2G/25G NVMe/2T@10Gbps",
+   "price": "$4.99/月，首期7折约$3.49",
+   "orig": "",
+   "code": "BFLET30",
+   "region": "荷兰阿姆斯特丹 / 加拿大蒙特利尔",
+   "ends": "2026-12-06",
+   "url": "https://servury.com/servers/",
+   "note": "免KYC匿名VPS，内存与硬盘全加密（SEV-SNP+LUKS2）；折扣仅首期，续费原价"
   },
   {
    "cat": "eSIM",
