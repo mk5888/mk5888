@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27 16:30 (UTC+8)",
+ "updated": "2026-11-27 16:58 (UTC+8)",
  "items": [
   {
    "cat": "VPS",
@@ -252,6 +252,78 @@
    "ends": "2026-11-30",
    "url": "https://vpshostingservice.co/aff.php?aff=2463&pid=106",
    "note": "原价 $780 年付，码已实测生效；11/28 起每天涨 $1，至 11/30 23:59 EST；结账手动填码"
+  },
+  {
+   "cat": "VPS",
+   "name": "六六云 美国双向4837 年付特价",
+   "spec": "1C/1G/15G，最高1Gbps，800G/月",
+   "price": "¥199/年",
+   "orig": "",
+   "code": "",
+   "region": "美国，联通4837双向优化，防送中",
+   "ends": "",
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=233",
+   "note": "年付特价，续费同价，限量，不叠加优惠码、不适用48小时退款；限量66台"
+  },
+  {
+   "cat": "VPS",
+   "name": "六六云 美西4837 年付特价",
+   "spec": "1C/1G/15G，1Gbps，800G/月",
+   "price": "¥199/年",
+   "orig": "",
+   "code": "",
+   "region": "美西，联通4837",
+   "ends": "",
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=225",
+   "note": "年付特价，续费同价，限量，不叠加优惠码、不适用48小时退款；限量66台"
+  },
+  {
+   "cat": "VPS",
+   "name": "六六云 德国优化线路 年付基础款",
+   "spec": "1C/1G/15G，300Mbps，820G/月",
+   "price": "¥249/年",
+   "orig": "",
+   "code": "",
+   "region": "德国，回国优化线路",
+   "ends": "",
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=230",
+   "note": "年付特价，续费同价，限量，不叠加优惠码、不适用48小时退款；限量66份"
+  },
+  {
+   "cat": "VPS",
+   "name": "六六云 德国优化线路 年付高配",
+   "spec": "2C/2G/30G，500Mbps，1.5T/月",
+   "price": "¥499/年",
+   "orig": "",
+   "code": "",
+   "region": "德国，回国优化线路",
+   "ends": "",
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=231",
+   "note": "年付特价，续费同价，限量，不叠加优惠码、不适用48小时退款；限量33份"
+  },
+  {
+   "cat": "VPS",
+   "name": "六六云 美国原生IP 三网CN2 GIA 2C2G",
+   "spec": "2C/2G/30G，300Mbps，1240G/月",
+   "price": "¥110/月，年付码后7折",
+   "orig": "",
+   "code": "year30off",
+   "region": "美国，三网回程CN2 GIA，原生IP",
+   "ends": "",
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=217",
+   "note": "三网精品线路最稳；year30off 年付循环7折（长期码），月付可用 month10off 9折"
+  },
+  {
+   "cat": "VPS",
+   "name": "六六云 香港 HK-CMI-150M",
+   "spec": "1C/1G/20G，150Mbps，双向800G",
+   "price": "¥55/月，年付码后7折",
+   "orig": "",
+   "code": "year30off",
+   "region": "香港，CMI优化，原生IP",
+   "ends": "",
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=179",
+   "note": "香港低延迟建站/中转；year30off 年付循环7折"
   },
   {
    "cat": "VPS",
