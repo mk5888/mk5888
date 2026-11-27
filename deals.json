@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 10:10 (UTC+8)",
+ "updated": "2026-11-27 16:30 (UTC+8)",
  "items": [
   {
    "cat": "VPS",
@@ -195,39 +195,63 @@
   },
   {
    "cat": "VPS",
-   "name": "ServerHost 2GB Ryzen/i9 VPS（黑五预热）",
-   "spec": "2G RAM（CPU/硬盘/流量原文未列）",
-   "price": "$22.99/年",
+   "name": "ServerHost Ryzen/i9 1GB（黑五每日限量）",
+   "spec": "1G RAM，Ryzen/i9 3.0GHz+，1Gbps 不限流量",
+   "price": "$13.99/年",
    "orig": "",
-   "code": "OCTRYZI92GB",
-   "region": "美国（读者实测在达拉斯，以下单页为准）",
-   "ends": "",
-   "url": "https://vpshostingservice.co/order/ryzen-i9-linux/2-gb?billingcycle=annually&promocode=OCTRYZI92GB",
-   "note": "i9-14900K/Ryzen高主频，单核性能强；同时有$100余额抽奖至11/25"
+   "code": "BF1GBRYZ",
+   "region": "美国 洛杉矶/纽约/芝加哥/达拉斯 等（下单页选）",
+   "ends": "2026-11-27 23:59 PST",
+   "url": "https://vpshostingservice.co/aff.php?aff=2463&pid=103",
+   "note": "限量100台，当天截止；结账手动填码"
   },
   {
    "cat": "VPS",
-   "name": "ServerHost 4GB Ryzen/i9 VPS（黑五预热）",
-   "spec": "4G RAM（CPU/硬盘/流量原文未列）",
-   "price": "$55.00/年",
+   "name": "ServerHost Ryzen/i9 2GB（黑五）",
+   "spec": "2C/2G/50G NVMe，1Gbps 不限流量",
+   "price": "$19.99/年",
    "orig": "",
-   "code": "OCTRYZI94GB",
-   "region": "美国（以下单页为准）",
-   "ends": "",
-   "url": "https://vpshostingservice.co/order/ryzen-i9-linux/4-gb-1?billingcycle=annually&promocode=OCTRYZI94GB",
-   "note": "高主频4G款，适合跑数据库+多服务"
+   "code": "BF2GBRYZ",
+   "region": "美国 洛杉矶/纽约/芝加哥/达拉斯 等（下单页选）",
+   "ends": "2026-11-30",
+   "url": "https://vpshostingservice.co/aff.php?aff=2463&pid=125",
+   "note": "高主频入门款；11/28 起每天涨 $1，至 11/30 23:59 EST；结账手动填码"
   },
   {
    "cat": "VPS",
-   "name": "ServerHost 8GB Ryzen/i9 VPS（黑五预热）",
-   "spec": "8G RAM（CPU/硬盘/流量原文未列）",
-   "price": "$79.00/年",
+   "name": "ServerHost Ryzen/i9 4GB（黑五）",
+   "spec": "2C/4G/100G NVMe，1Gbps 不限流量",
+   "price": "$39.99/年",
    "orig": "",
-   "code": "OCTRYZI98GB",
-   "region": "美国（以下单页为准）",
-   "ends": "",
-   "url": "https://lowendbox.com/blog/the-pre-black-friday-lab-upgrade-win-100-see-the-8gb-ryzen-i9-offer/",
-   "note": "8G大内存年付79刀，同系列高主频Ryzen/i9；$100余额抽奖至11/25"
+   "code": "BF4GBRYZ",
+   "region": "美国 洛杉矶/纽约/芝加哥/达拉斯 等（下单页选）",
+   "ends": "2026-11-30",
+   "url": "https://vpshostingservice.co/aff.php?aff=2463&pid=104",
+   "note": "跑数据库+多服务够用；11/28 起每天涨 $1，至 11/30 23:59 EST；结账手动填码"
+  },
+  {
+   "cat": "VPS",
+   "name": "ServerHost Ryzen/i9 8GB（黑五）",
+   "spec": "3C/8G/200G NVMe，1Gbps 不限流量",
+   "price": "$69.99/年",
+   "orig": "",
+   "code": "BF8GBRYZ",
+   "region": "美国 洛杉矶/纽约/芝加哥/达拉斯 等（下单页选）",
+   "ends": "2026-11-30",
+   "url": "https://vpshostingservice.co/aff.php?aff=2463&pid=105",
+   "note": "8G大内存高主频；11/28 起每天涨 $1，至 11/30 23:59 EST；结账手动填码"
+  },
+  {
+   "cat": "VPS",
+   "name": "ServerHost Ryzen/i9 16GB（黑五）",
+   "spec": "16G RAM，Ryzen/i9，1Gbps 不限流量",
+   "price": "$134.99/年",
+   "orig": "$780/年",
+   "code": "BF16GBRYZ",
+   "region": "美国 洛杉矶/纽约/芝加哥/达拉斯 等（下单页选）",
+   "ends": "2026-11-30",
+   "url": "https://vpshostingservice.co/aff.php?aff=2463&pid=106",
+   "note": "原价 $780 年付，码已实测生效；11/28 起每天涨 $1，至 11/30 23:59 EST；结账手动填码"
   },
   {
    "cat": "VPS",
