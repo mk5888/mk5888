@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 18:50 (UTC+8)",
+ "updated": "2026-11-28 18:55 (UTC+8)",
  "items": [
   {
    "cat": "VPS",
@@ -267,27 +267,27 @@
   },
   {
    "cat": "VPS",
-   "name": "六六云 德国优化线路 年付高配",
-   "spec": "2C/2G/30G，500Mbps，1.5T/月",
-   "price": "¥499/年",
+   "name": "六六云 美国双向4837优化",
+   "spec": "1C/1G/15G，1Gbps，1T/月",
+   "price": "¥50/月",
    "orig": "",
-   "code": "",
-   "region": "德国，回国优化线路",
+   "code": "year30off",
+   "region": "美国，联通AS4837去回程双向优化，谷歌防送中，机房IP",
    "ends": "",
-   "url": "https://666clouds.com/aff.php?aff=3161&pid=231",
-   "note": "年付特价，续费同价，限量，不叠加优惠码、不适用48小时退款；限量33份"
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=232",
+   "note": "四档可选（¥50–400/月）；year30off 年付循环7折"
   },
   {
    "cat": "VPS",
-   "name": "六六云 香港 HK-CMI-150M",
-   "spec": "1C/1G/20G，150Mbps，双向800G",
-   "price": "¥55/月，年付码后7折",
+   "name": "六六云 美西原生IP双ISP 9929优化",
+   "spec": "1C/1G/15G，200Mbps，1T/月",
+   "price": "¥55/月",
    "orig": "",
    "code": "year30off",
-   "region": "香港，CMI优化，原生IP",
+   "region": "美西，联通9929优化，双ISP原生IP",
    "ends": "",
-   "url": "https://666clouds.com/aff.php?aff=3161&pid=179",
-   "note": "香港低延迟建站/中转；year30off 年付循环7折"
+   "url": "https://666clouds.com/aff.php?aff=3161&pid=187",
+   "note": "官方标注新手首选，适合 TikTok/ChatGPT；year30off 年付循环7折"
   },
   {
    "cat": "VPS",
