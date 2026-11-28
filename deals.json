@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 18:40 (UTC+8)",
+ "updated": "2026-11-28 18:50 (UTC+8)",
  "items": [
   {
    "cat": "VPS",
@@ -60,6 +60,18 @@
    "ends": "",
    "url": "https://my.racknerd.com/aff.php?aff=4338&pid=972",
    "note": "8G内存140G硬盘，跑多容器/小型数据库够用，续费同价"
+  },
+  {
+   "cat": "VPS",
+   "name": "搬瓦工 BIGGERBOX-20-1024 限量版",
+   "spec": "1C/1G/20G SSD/1T，1Gbps",
+   "price": "$37/年",
+   "orig": "",
+   "code": "",
+   "region": "美国洛杉矶 DC99，三网回程 CN2 GIA（直连中国优化），不可迁移机房",
+   "ends": "",
+   "url": "https://bwh81.net/aff.php?aff=42297&pid=152",
+   "note": "限量版，下单需邀请码；GFW 封 IP 30 天内也可退款；搬瓦工今年黑五无折扣，这款是目前最便宜的 CN2 GIA"
   },
   {
    "cat": "VPS",
